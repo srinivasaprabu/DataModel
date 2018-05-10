@@ -1,6 +1,6 @@
 {
   "hotel" [
       {"name": "Le meridian","rating": 3.2,"tariff": 4800,"roomsavailable" : 50},
-      {"name": "GRT","rating": 4,"tariff": 5900,"roomsavailable" : 80},
+      {"name": "GRT","rating": 4,"tariff": 5900,"roomsavailable" : 80}
          ]
 }
